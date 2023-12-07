@@ -1,3 +1,3 @@
 # PORTFOLIO
-This is my portfolio website where you will find the projects that I built using React and TailwindCSS.
+This is my portfolio website where you will find the projects that I built TailwindCSS.
 ### https://dev-akhilesh.github.io/
