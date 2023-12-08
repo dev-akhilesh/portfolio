@@ -1,3 +1,3 @@
 # PORTFOLIO
-This is my portfolio website where you will find the projects that I built using HTML, CSS, JavaScript.
+This is my portfolio website where you will find the projects that I built using HTML, CSS, and JavaScript.
 ### https://dev-akhilesh.github.io/
