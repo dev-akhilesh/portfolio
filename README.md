@@ -6,8 +6,7 @@ This is my Portfolio where you will find the projects that I built using
   - React
   - Node
   - Express
-  - MongoDB
-    
+
 ##### https://dev-akhilesh.github.io/
 
 Thank you for visiting my portfolio! 🚀
