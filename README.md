@@ -4,7 +4,6 @@ This is my Portfolio where you will find the projects that I built using
   - CSS
   - JavaScript
   - React
-  - Node
 
 ##### https://dev-akhilesh.github.io/
 
